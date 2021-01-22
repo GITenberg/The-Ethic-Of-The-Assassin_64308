@@ -1,5 +1,8 @@
 _repo: The-Ethic-Of-The-Assassin_64308
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64308-h/images/cover.jpg
 creator:
   author:
     agent_name: Howard, Hayden
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51189'
     url: http://www.gutenberg.org/2009/agents/51189
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64308#The-Ethic-Of-The-Assassin
 gutenberg_issued: '2021-01-16'
 gutenberg_type: Text
 identifiers:
